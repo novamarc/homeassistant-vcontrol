@@ -3,7 +3,7 @@ name: Vcontrol add-on
 version: "1.13.4s"
 slug: vcontrold
 description: MQTT bridge for Viessmann vcontrold
-url: "https://github.com/Alexandre-io/homeassistant-vcontrol"
+url: "https://github.com/novamarc/homeassistant-vcontrol"
 arch:
   - aarch64
   - amd64
