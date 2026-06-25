@@ -196,7 +196,7 @@
     </command>
     <!-- BRENNER -->
     <command name="getBrennerStatus" protocmd="getaddr">
-      <addr>55D3</addr>
+      <addr>551E</addr>
       <len>1</len>
       <unit>RT</unit>
       <description>Ermittle den Brennerstatus</description>
